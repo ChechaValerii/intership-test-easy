@@ -1,6 +1,6 @@
 # JS developer task
 
-Your task is to add three new endpoints.
+Your task is to create new endpoint.
 
 When you are done, you can either send a pull request to this repository with your solution or email your solution to [HR manager](mailto:tatiana.gdeshinskaya@onix-systems.com).
 
